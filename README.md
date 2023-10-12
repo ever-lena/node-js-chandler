@@ -1,6 +1,6 @@
 
 
-# A Comprehensive Guide to Enhancing Node.js Performance with Worker Threads
+# Enhance Node.js Performance with Worker Threadss
 
 Node.js has been a game-changer in the world of web development. With a single runtime that allows both frontend and backend development using JavaScript, it has simplified the lives of developers. However, Node.js has certain limitations due to its asynchronous and single-threaded nature, especially when it comes to handling CPU-intensive workloads.
 
