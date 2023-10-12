@@ -211,6 +211,10 @@ At [Hybrid Web Agency](https://hybridwebagency.com/), we offer professional [Nod
 
 Through intelligent architecture, benchmarking, deployment automation, and more, we ensure your applications make the most of multi-core infrastructure. Get in touch with us to discuss how our Node.js development services can help your business harness the full power of this rapidly advancing technology stack.
 
---- 
-
-Feel free to let me know if you need further modifications or if you'd like to explore anything else!
+## References
+- Node.js documentation on worker threads: https://nodejs.org/api/worker_threads.html
+- Documentation page explaining multi-threading model in Node.js: https://nodejs.org/api/worker_threads.html#multithreaded-javascript
+- Guide on using thread pools with worker_threads: https://nodejs.org/api/worker_threads.html#thread-pools
+- Articles on Node.js performance best practices from Node.js foundation: https://nodejs.org/en/docs/guides/nodejs-performance-best-practices/
+- Documentation for known asynchronous functions in core Node.js modules: https://nodejs.org/api/async_hooks.html
+- Reference documentation for Cluster module used for multi-processing: https://nodejs.org/api/cluster.html
